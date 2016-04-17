@@ -1,5 +1,6 @@
 ## Name
-- 神経衰弱
+神経衰弱
+
 ## Description
 - ゲームの内容:神経衰弱(簡易的なアニメーション付き)
 - 使用言語:JavaScript(HTML,CSS)
